@@ -1,0 +1,15 @@
+ERROR,Woops. Something went wrong.
+CONFUSED, I can't understand what you're saying. Please try another way to say it.
+WELCOME,Welcome {name}! Would you help me find the start of the Wildfire?
+WELCOME,¡¡¡ HELP {name} !!! There is a WILDFIRE, help me find the source... HURRY!
+DO_YOU_SEE_IT, {date} - Do you see the wildfire? (Yes/No)
+CONGRATULATIONS, Thanks {name}! the wildfire started at {date}.
+GUESS, Would you help me guess where is the wildfire?
+INITIALIZE, Welcome {name}! Would you let me set up everything first?
+INITIALIZED, Everything is set, would you help me guess?
+LETS_GUESS, Let's guess!
+YES, Yes
+NO, No
+AGAIN, Again?
+OK, Ok
+
